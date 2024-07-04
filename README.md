@@ -8,6 +8,7 @@
 ![Akshat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saujix&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saujix&layout=compact&theme=radical)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=saujix)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
