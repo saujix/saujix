@@ -9,6 +9,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saujix&layout=compact&theme=radical)
 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31wt4adfjq4k5q5d26tkytabqqbu&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+
 
 
 <!--
