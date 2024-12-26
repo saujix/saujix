@@ -1,13 +1,6 @@
 ## Hi there 👋
 
-### -->✨✨[My Site](https://saujix.github.io)✨✨<--
-
-- 🔭 I’m currently working on Myself.
-- 🌱 I’m currently learning Javascript.
-- ⚡ Fun fact: Nothing much duh.
-
-## Languages and Tools:
-![Tools](https://img.shields.io/badge/Tool-Example-blue)
+### [My Site](https://saujix.github.io)
 
 ## GitHub Stats:
 ![Akshat's GitHub stats](https://github-readme-stats.vercel.app/api?username=saujix&show_icons=true&theme=radical)
